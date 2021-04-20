@@ -1,0 +1,5 @@
+hello. 
+i'm new to git.
+I'm learning thr git.
+
+
